@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WEATHER APP", "WEATHER APP\WEATHER APP.csproj", "{995EF337-54EA-4D7F-BF62-042417A00362}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcrylicView", "..\AcrylicView.MAUI-master\AcrylicView\AcrylicView.csproj", "{6C434FEC-DA3F-4B16-BEF8-2D75B4031ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{995EF337-54EA-4D7F-BF62-042417A00362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995EF337-54EA-4D7F-BF62-042417A00362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995EF337-54EA-4D7F-BF62-042417A00362}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{995EF337-54EA-4D7F-BF62-042417A00362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995EF337-54EA-4D7F-BF62-042417A00362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{995EF337-54EA-4D7F-BF62-042417A00362}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6C434FEC-DA3F-4B16-BEF8-2D75B4031ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C434FEC-DA3F-4B16-BEF8-2D75B4031ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C434FEC-DA3F-4B16-BEF8-2D75B4031ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C434FEC-DA3F-4B16-BEF8-2D75B4031ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F22B4AE9-F738-4DDB-B6BC-52BE46C41D2C}
+	EndGlobalSection
+EndGlobal
